@@ -16,16 +16,12 @@ Este é um sistema de autenticação com dois fatores (2FA) desenvolvido em Java
 - UUID para geração de códigos de autenticação
 - Scanner para entrada do usuário
 
-## 📦 Como Usar
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Compile o código:
+
+. Compile o código:
    ```sh
    javac TwoFactorAuthSystem.java
    ```
-3. Execute o programa:
+. Execute o programa:
    ```sh
    java TwoFactorAuthSystem
    ```
